@@ -4,4 +4,8 @@ public class App {
     public boolean get() {
         return true;
     }
+
+    public boolean getFalse() {
+        return true;
+    }
 }
