@@ -8,4 +8,6 @@
 
 [//]: # (![Coverage]&#40;.github/badges/jacoco.svg&#41;)
 
-![Coverage](.github/badges/jacoco.svg)
+[//]: # (![Coverage]&#40;.github/badges/jacoco.svg&#41;)
+
+[![Coverage](.github/badges/jacoco.svg)](https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml)
