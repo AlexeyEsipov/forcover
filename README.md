@@ -16,6 +16,10 @@
 
 [//]: # (![Coverage]&#40;https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml/jacoco.svg&#41;)
 
-[![Coverage](.github/badges/jacoco.svg)](https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml)
+[//]: # ([![Coverage]&#40;.github/badges/jacoco.svg&#41;]&#40;https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml&#41;)
 
 [//]: # ([![coverage]&#40;https://raw.githubusercontent.com/AlexeyEsipov/forcover/badges/jacoco.svg&#41;]&#40;https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml&#41;)
+
+[![coverage](https://raw.githubusercontent.com/AlexeyEsipov/forcover/badges/jacoco.svg)](https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml)
+
+[![branches coverage](https://raw.githubusercontent.com/AlexeyEsipov/forcover/badges/branches.svg)](https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml)
