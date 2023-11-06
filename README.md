@@ -12,4 +12,6 @@
 
 [//]: # ([![Coverage]&#40;.github/badges/jacoco.svg&#41;]&#40;https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml&#41;)
 
-![Coverage](https://github.com/AlexeyEsipov/forcover/actions/workflows/maven.yml/jacoco.svg)
+[//]: # (![Coverage]&#40;https://github.com/AlexeyEsipov/forcover/actions/workflows/maven.yml/jacoco.svg&#41;)
+
+![Coverage](https://github.com/AlexeyEsipov/forcover/actions/workflows/build.yml/jacoco.svg)
