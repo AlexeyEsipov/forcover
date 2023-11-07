@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ru.job4j.AppTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.209 s -- in ru.job4j.AppTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.244 s -- in ru.job4j.AppTest
