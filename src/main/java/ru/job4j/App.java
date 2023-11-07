@@ -12,4 +12,8 @@ public class App {
     public boolean getTrue() {
         return true;
     }
+
+    public boolean getTrueOk() {
+        return true;
+    }
 }
