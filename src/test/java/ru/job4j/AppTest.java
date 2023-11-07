@@ -20,4 +20,11 @@ class AppTest {
         assertThat(app.getFalse()).isTrue();
     }
 
+    @Test
+    void whenThenTrue() {
+        App app = new App();
+        boolean a = true;
+        assertThat(app.getFalse()).isTrue();
+    }
+
 }

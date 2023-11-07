@@ -8,4 +8,8 @@ public class App {
     public boolean getFalse() {
         return true;
     }
+
+    public boolean getTrue() {
+        return true;
+    }
 }
